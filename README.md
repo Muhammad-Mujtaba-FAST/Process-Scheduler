@@ -24,6 +24,10 @@ Description of Files:
 Following files will be provided for Process Scheduling
 1. job.txt
 This file will contain process name and their arrival time separated with space. i.e.
+P0 0
+P1 1
+P2 2
+P3 3
 
 Note: List of processes is unordered.
 2. ProcessName.txt
